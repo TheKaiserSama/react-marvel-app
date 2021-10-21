@@ -1,0 +1,2 @@
+.custom-card:hover{box-shadow:0 5px 15px rgba(0,0,0,.35);-webkit-transform:scale(1.02);transform:scale(1.02);cursor:pointer}.custom-card{transition:.3s}.pagination{display:flex;justify-content:center;align-items:center}.pagination li{display:block;background-color:#fff;border:1px solid #e9ecef;color:#0d6efd}.pagination li a{display:block;padding:10px 20px}.pagination .active{background-color:#0d6efd;color:#fff}
+/*# sourceMappingURL=main.4a77acb8.chunk.css.map */
